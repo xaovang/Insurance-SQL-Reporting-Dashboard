@@ -45,8 +45,8 @@ The Excel dashboard includes:
 - All charts are combined into one interactive sheet for easy exploration.
 
 ## insurance-sql-reporting
-- insurance_data.csv # Raw data
-- insurance_sql_dashboard.xlsx # Main Excel dashboard with visuals
-- Queries.sql # Saved SQL queries
-- schema.sql # Table creation script
-- README.md # This file
+- synthetic insurance_data.csv    # Raw data
+- insurance_sql_dashboard.xlsx    # Main Excel dashboard with visuals
+- Queries.sql                     # Saved SQL queries
+- schema.sql                      # Table creation script
+- README.md                       # This file
